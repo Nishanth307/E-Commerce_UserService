@@ -7,5 +7,5 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class UserservicetestfinalApplication {
     public static void main(String[] args) {
         SpringApplication.run(UserservicetestfinalApplication.class, args);
-    }
+    }   
 }
