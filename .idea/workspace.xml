@@ -4,29 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da2b4108-9180-4ceb-9b35-ad6a98aeaa0f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/models/Authorization.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/models/AuthorizationConsent.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/models/Client.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/repositories/AuthorizationConsentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/repositories/AuthorizationRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/repositories/ClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/repositories/JpaRegisteredClientRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/services/JpaOAuth2AuthorizationConsentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/services/JpaOAuth2AuthorizationService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/src/test/java/dev/auth/userservicetestfinal/RegisteredClientAddingTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dbnavigator.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/UserservicetestfinalApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/UserservicetestfinalApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/Role.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/Role.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/Session.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/Session.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/User.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/SecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/SecurityConfig.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/SpringSecurity.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/secutiry/SpringSecurity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/resources/application.properties" afterDir="false" />
-    </list>
+    <list default="true" id="da2b4108-9180-4ceb-9b35-ad6a98aeaa0f" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -60,17 +38,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Application.UserservicetestfinalApplication.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.RegisteredClientAddingTest.addRegisteredClient.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/nisha/Documents/.vscode/java sample/E-Commerce_UserService&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.UserservicetestfinalApplication.executor": "Run",
+    "JUnit.RegisteredClientAddingTest.addRegisteredClient.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "deepak",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/nisha/Documents/.vscode/java sample/gits"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="RegisteredClientAddingTest.addRegisteredClient" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="userservicetestfinal" />
