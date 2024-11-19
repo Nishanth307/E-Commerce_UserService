@@ -1,6 +1,8 @@
 package dev.auth.userservicetestfinal.secutiry;
 
+import java.util.ArrayList;
 import java.util.Collection;
+import java.util.Set;
 
 import com.fasterxml.jackson.annotation.JsonIgnore;
 import com.fasterxml.jackson.databind.annotation.JsonDeserialize;
@@ -25,7 +27,12 @@ public class CustomUserDetails implements UserDetails{
       @Override 
       @JsonIgnore
       public Collection<? extends GrantedAuthority> getAuthorities() {
-            return null;
+            Set<Role> roles = user.getRoles();
+            Collection<CustomGrantedAuthority> customGrantedAuthorities = new ArrayList<>();
+            for (Role role:roles){
+                  customGrantedAuthorities.add(new CustomGrantedAuthority(role));
+            }
+            return customGrantedAuthorities;
       }
 
       @Override 
