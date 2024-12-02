@@ -4,7 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="da2b4108-9180-4ceb-9b35-ad6a98aeaa0f" name="Changes" comment="" />
+    <list default="true" id="da2b4108-9180-4ceb-9b35-ad6a98aeaa0f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/java/dev/auth/userservicetestfinal/models/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ecommerce/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/ecommerce/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,10 +49,12 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "Application.UserservicetestfinalApplication.executor": "Run",
     "JUnit.RegisteredClientAddingTest.addRegisteredClient.executor": "Run",
+    "Maven.userservicetestfinal [clean].executor": "Run",
+    "Maven.userservicetestfinal [package].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "deepak",
+    "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/nisha/Documents/.vscode/java sample/gits"
+    "last_opened_file_path": "C:/Users/nisha/Documents/.vscode/java sample/E-Commerce"
   }
 }]]></component>
   <component name="RunManager">
